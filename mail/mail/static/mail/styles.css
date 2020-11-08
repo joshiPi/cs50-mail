@@ -1,0 +1,23 @@
+textarea {
+    min-height: 420px;
+}
+#inside-mail{
+    display:inline;
+}
+#emails-view > div{
+    min-height:4rem;
+    border : 2px solid black;
+    margin-top:10px;
+    cursor:pointer;
+}
+#timestamp{
+    border:transparent;
+    display:inline;
+    float: right;
+    color: rgb(151, 156, 160);
+    font-weight: 100;
+}
+#single-email button{
+    margin-right:10px;
+    margin-bottom:15px;
+}
